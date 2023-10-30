@@ -1,4 +1,6 @@
-<img align="center" alt="Coding" width="400" src="https://media.tenor.com/AfCuwlCCKoIAAAAd/oshi-no-ko-twin.gif">
+<div style="text-align:center;">
+  <img align="center" alt="Coding" width="100%" src="https://media.tenor.com/AfCuwlCCKoIAAAAd/oshi-no-ko-twin.gif">
+</div>
 <h1 align="center">Hi 👋, I'm Fahmi Nurkamil</h1>
 <h3 align="center">eat🍴 sleep💤 code🧑‍💻 game🎮 repeat🔁</h3>
 
