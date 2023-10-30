@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fahmi Nurkamil</h1>
 <h3 align="center">eat🍴 sleep💤 code🧑‍💻 game🎮 repeat🔁</h3>
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://media.tenor.com/AfCuwlCCKoIAAAAd/oshi-no-ko-twin.gif)](https://rishavchanda.io)
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/AfCuwlCCKoIAAAAd/oshi-no-ko-twin.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahminurk&label=Profile%20views&color=0e75b6&style=flat" alt="fahminurk" /> </p>
